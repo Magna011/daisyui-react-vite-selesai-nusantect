@@ -1,0 +1,14 @@
+
+.subcustom-label {
+  width: 280px;
+  height: 30px;
+  background-color: rgb(255, 10, 10);
+  padding: 5px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.subcustom-label:focus {
+  background-color: rgb(150, 0, 0);
+  outline: none; /* Menghapus garis bingkai saat difokuskan */
+}
